@@ -15,10 +15,13 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
-## 鍏充簬鎴?
-- 涓撴敞鎶婃兂娉曠湡姝ｅ仛鎴愬彲杩愯銆佸彲婕旂ず銆佸彲浜や粯鐨勭郴缁燂紝鏂瑰悜瑕嗙洊 AI 搴旂敤銆佽嚜鍔ㄥ寲宸ュ叿鍜屽叏鏍堜骇鍝併€?- 甯哥敤鎶€鏈爤锛歚Python / TypeScript / Vue / Next.js / FastAPI / Prisma / PyTorch`
-- 鏇村亸鐖扁€滆兘鐩存帴涓婄嚎銆佽兘鐩存帴灞曠ず缁撴灉鈥濈殑椤圭洰锛岃€屼笉鍙槸鍋滅暀鍦ㄦ蹇甸獙璇併€?
-## 浠ｈ〃椤圭洰
+## 关于我
+
+- 专注把想法真正做成可运行、可演示、可交付的系统，方向覆盖 AI 应用、自动化工具和全栈产品。
+- 常用技术栈：`Python / TypeScript / Vue / Next.js / FastAPI / Prisma / PyTorch`
+- 更偏爱“能直接上线、能直接展示结果”的项目，而不只是停留在概念验证。
+
+## 代表项目
 
 <table>
   <tr>
@@ -59,13 +62,16 @@
   </tr>
 </table>
 
-## 鍏虫敞鏂瑰悜
+## 关注方向
 
 ```text
-AI 搴旂敤寮€鍙?       -> 鍥惧儚鍒嗙被銆佽鏂囧伐鍏枫€佸疄楠屾祦绋嬫惌寤?鍏ㄦ爤绯荤粺钀藉湴      -> Next.js / Vue / FastAPI / Prisma / SQLite / MySQL
-鑷姩鍖栦笌鏁堢巼宸ュ叿  -> 娴忚鍣ㄥ伐鍏枫€佸疄鐢ㄥ瀷灏忓伐鍏枫€佹祦绋嬩紭鍖?浜у搧鍖栦氦浠?       -> 浠庡師鍨嬪埌鍙儴缃叉紨绀虹増鏈?```
+AI 应用开发        -> 图像分类、论文工具、实验流程搭建
+全栈系统落地      -> Next.js / Vue / FastAPI / Prisma / SQLite / MySQL
+自动化与效率工具  -> 浏览器工具、实用型小工具、流程优化
+产品化交付        -> 从原型到可部署演示版本
+```
 
-## GitHub 姒傝
+## GitHub 概览
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=korelyk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
