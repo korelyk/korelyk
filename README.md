@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:06b6d4&text=Justin%20Yuan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Application%20Builder&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:06b6d4&text=Justin%20Yuan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%20%7C%20AI%20%E5%BA%94%E7%94%A8%E6%9E%84%E5%BB%BA&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=880&lines=Building+AI+products%2C+automation+tools%2C+and+production-ready+web+apps;Python+%7C+TypeScript+%7C+Next.js+%7C+Vue+%7C+FastAPI+%7C+PyTorch;From+ML+experiments+to+deployable+full-stack+systems" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=880&lines=%E4%B8%93%E6%B3%A8+AI+%E5%BA%94%E7%94%A8%E3%80%81%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7%E5%92%8C%E5%85%A8%E6%A0%88%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91;Python+%7C+TypeScript+%7C+Next.js+%7C+Vue+%7C+FastAPI+%7C+PyTorch;%E4%BB%8E%E6%A8%A1%E5%9E%8B%E5%AE%9E%E9%AA%8C%E5%88%B0%E5%8F%AF%E9%83%A8%E7%BD%B2%E4%BA%A7%E5%93%81%E5%8C%96%E9%A1%B9%E7%9B%AE" alt="typing" />
 </p>
 
 <p align="center">
@@ -15,13 +15,10 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
-## About Me
-
-- I focus on turning ideas into production-ready systems across AI apps, automation tools, and full-stack products.
-- My core stack is `Python / TypeScript / Vue / Next.js / FastAPI / Prisma / PyTorch`.
-- I like projects that can be shipped, demoed, and used directly, not just proof-of-concept prototypes.
-
-## Featured Projects
+## 鍏充簬鎴?
+- 涓撴敞鎶婃兂娉曠湡姝ｅ仛鎴愬彲杩愯銆佸彲婕旂ず銆佸彲浜や粯鐨勭郴缁燂紝鏂瑰悜瑕嗙洊 AI 搴旂敤銆佽嚜鍔ㄥ寲宸ュ叿鍜屽叏鏍堜骇鍝併€?- 甯哥敤鎶€鏈爤锛歚Python / TypeScript / Vue / Next.js / FastAPI / Prisma / PyTorch`
+- 鏇村亸鐖扁€滆兘鐩存帴涓婄嚎銆佽兘鐩存帴灞曠ず缁撴灉鈥濈殑椤圭洰锛岃€屼笉鍙槸鍋滅暀鍦ㄦ蹇甸獙璇併€?
+## 浠ｈ〃椤圭洰
 
 <table>
   <tr>
@@ -62,16 +59,13 @@
   </tr>
 </table>
 
-## Focus Areas
+## 鍏虫敞鏂瑰悜
 
 ```text
-AI Applications      -> image classification, paper tooling, experiment pipelines
-Full-Stack Systems   -> Next.js / Vue / FastAPI / Prisma / SQLite / MySQL
-Automation & Tools   -> browser tools, utility apps, workflow simplification
-Product Delivery     -> from prototype to deployable demo
-```
+AI 搴旂敤寮€鍙?       -> 鍥惧儚鍒嗙被銆佽鏂囧伐鍏枫€佸疄楠屾祦绋嬫惌寤?鍏ㄦ爤绯荤粺钀藉湴      -> Next.js / Vue / FastAPI / Prisma / SQLite / MySQL
+鑷姩鍖栦笌鏁堢巼宸ュ叿  -> 娴忚鍣ㄥ伐鍏枫€佸疄鐢ㄥ瀷灏忓伐鍏枫€佹祦绋嬩紭鍖?浜у搧鍖栦氦浠?       -> 浠庡師鍨嬪埌鍙儴缃叉紨绀虹増鏈?```
 
-## GitHub Snapshot
+## GitHub 姒傝
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=korelyk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
