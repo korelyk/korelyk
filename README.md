@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="袁敬东 / Justin Yuan" width="100%" />
 </p>
 
-我在海南大学读网络与信息安全硕士，本科做的是农产品溯源系统。现在主要看交通流预测这一块，具体是时空图建模：动态图怎么建，GNN 和注意力放在哪儿。机械臂也在做，装配、URDF 建模、遥操作都自己上手，运动学一边学一边用，不想只停在看课上。
+我在海南大学读网络与信息安全硕士，本科做的是农产品溯源系统。现在主要看交通流预测这一块，具体是时空图建模：动态图怎么建，GNN 和注意力放在哪儿。机械臂也在做，不想只停在看课上。
 
 *Master's student in Cyber Security, Hainan University · Spatio-temporal graph learning for traffic forecasting · Robot arm and ROS 2*
 
