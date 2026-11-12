@@ -10,7 +10,8 @@
 
 **机械臂**　我自己组装的机械臂，装配、URDF 建模、遥操作联调都自己上手，运动学一边学一边用。代码没有开源。
 
-**TrustAgent**　给接上工具的大模型加一层管控：Java（Spring Boot）控制面管认证、策略和审计，Python（FastAPI）执行面跑 Agent 编排和内容安检，工具调用真正执行前会先检查是否符合策略。源码暂未提供公开访问。
+**TrustAgent**　给接上工具的大模型加一层管控：Java（Spring Boot）控制面管认证、策略和审计，Python（FastAPI）执行面跑 Agent 编排和内容安检，工具调用真正执行前会先检查是否符合策略。
+[源码](https://github.com/korelyk/TrustAgent)
 
 **repro-verdict**　复现论文时用的检查工具：验收容差在实验前就写进配置，跑完给 A / B / C / F 评级，评分和复核分开做。命令行可以直接跑。
 [源码](https://github.com/korelyk/repro-verdict)　[PyPI](https://pypi.org/project/repro-verdict/)　`Python` `MIT`
