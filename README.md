@@ -28,4 +28,4 @@
 
 ## 联系
 
-个人站 [www.yjde.de](https://www.yjde.de)，上面也有这个 GitHub 的入口。有问题直接开 Issue。
+个人站 [www.yjde.de](https://www.yjde.de)，上面也有这个 GitHub 的入口。有问题联系yjdtop@gmail.com或直接开 Issue。
