@@ -22,7 +22,7 @@
 **bishe-image-classification**　道路目标图像分类：ResNet50、MobileNetV2、EfficientNet-B0 三个模型做对比，加数据增强和 Grad-CAM，最后包成 FastAPI 服务，带后台统计。
 [源码](https://github.com/korelyk/bishe-image-classification)　`PyTorch` `FastAPI`
 
-## 在学什么
+## 研究方向
 
 交通流预测是主线，往下是动态图建模、GNN 和注意力机制。工程这边放机械臂实践和几个软件项目，代码基本都在上面。TrustAgent 是 Agent 工具调用的安全管理项目。
 
